@@ -11,8 +11,3 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-
-
-To run FE part execut this commands:
-`cd client`
-`npm run dev`
